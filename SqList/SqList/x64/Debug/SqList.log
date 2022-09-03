@@ -1,0 +1,5 @@
+﻿  test.c
+E:\CLass Work\dataStruncture\SqList\SqList\test.c(26,17): warning C4133: “函数”: 从“SeqList *”到“int *”的类型不兼容
+E:\CLass Work\dataStruncture\SqList\SqList\test.c(42,17): warning C4133: “函数”: 从“SeqList *”到“int *”的类型不兼容
+E:\CLass Work\dataStruncture\SqList\SqList\test.c(53): warning C4715: “ListInsert”: 不是所有的控件路径都返回值
+  SqList.vcxproj -> E:\CLass Work\dataStruncture\SqList\x64\Debug\SqList.exe
