@@ -1,0 +1,4 @@
+﻿  test.c
+E:\CLass Work\dataStruncture\DelTree\DelTree\test.c(21,11): warning C4098: “DelTree”:“void”函数返回值
+E:\CLass Work\dataStruncture\DelTree\DelTree\test.c(24,11): warning C4098: “DelTree”:“void”函数返回值
+  DelTree.vcxproj -> E:\CLass Work\dataStruncture\DelTree\x64\Debug\DelTree.exe
